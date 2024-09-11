@@ -15,34 +15,7 @@ This directory contains Python code examples, solutions, and exercises to help y
 - **File Handling**: Learn how to read from and write to files using Python.
 - **Problem Solving**: Solutions to common coding challenges to improve your problem-solving skills.
 
-### Directory Structure
-
-- `./BasicSyntax/`: Code snippets and examples explaining basic Python syntax and constructs.
-- `./Functions/`: Practical implementations of functions and problem-solving with functions.
-- `./DataStructures/`: Learn and implement various Python data structures.
-- `./OOP/`: A guide to Object-Oriented Programming in Python with examples.
-- `./FileHandling/`: Demonstrations of file handling techniques in Python.
-- `./Exercises/`: Practice problems along with solutions.
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pzinzuvadia/Python-Mastery-Hub
-   ```
-2. Navigate to the **ApnaCollege** directory:
-   ```bash
-   cd Python-Mastery-Hub/ApnaCollege
-   ```
-3. Explore the topics and run the code examples:
-   ```bash
-   python filename.py
-   ```
-
 ## Contributing
 
 Feel free to contribute to this repository by adding your own examples, improvements, or solutions to exercises. Fork the repo, make your changes, and submit a pull request!
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](../LICENSE) file for more details.
