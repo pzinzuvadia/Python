@@ -8,7 +8,7 @@ Welcome to the **Python HackerRank Solutions** directory! This section of the re
 Each file corresponds to a problem from HackerRank, with the following details included:
 
 - **Problem Description**: A summary of the problem statement.
-- **Solution**: The SQL query used to solve the problem.
+- **Solution**: The Python code used to solve the problem.
 - **Explanation**: A step-by-step explanation of the approach used to solve the problem, highlighting important Python concepts and techniques.
 
 ## How to Use
